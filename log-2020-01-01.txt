@@ -1,0 +1,17 @@
+e: isWifiLink:false isWifiConnected:false isMobileDataEnabled:true
+e: start checkForDisable
+e: disabled, return
+e: start checkForDisable
+e: disabled, return
+e: start checkForDisable
+e: disabled, return
+e: isWifiLink:false isWifiConnected:false isMobileDataEnabled:false
+e: start checkForDisable
+e: disabled, return
+e: isWifiLink:false isWifiConnected:false isMobileDataEnabled:true
+e: start checkForDisable
+e: disabled, return
+e: start checkForDisable
+e: disabled, return
+e: start checkForDisable
+e: disabled, return
